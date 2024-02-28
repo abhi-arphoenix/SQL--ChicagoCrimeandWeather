@@ -20,8 +20,7 @@ Seven key [datasets](./source_data/csv/) for this case study
 - <strong>chicago_crime_2022.csv</strong>: Reported crimes in 2022.
 
 
-## Entity Relationship Diagram
-![alt text](./images/ERD.PNG)
+
 
 :exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
 
